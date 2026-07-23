@@ -12,6 +12,21 @@
 
 Ideal if you want a simple, feature-rich, plug-and-play cloud integration for SolaXCloud in Home Assistant and your Energy Dashboard.
 
+<br>
+
+**--UPDATE ON API KEY--**
+
+Some users have reported that the API Key is not available for the Cloud API in the SolaX website for new registrations.
+If this happens to you, use this inthegration instead:
+https://github.com/NoUsername10/Solax-Developer-API-for-Home-assistant
+This uses the SolaX Developer API, and is much better and feature rich!
+Do try it out and led me know how it works for you.
+
+Its in the HACS default catalog waiting line for approval.
+
+<br>
+
+
 ## ✨ Features in short:
 
 - **🔌 Works with single or multiple inverters**
