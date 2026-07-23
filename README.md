@@ -20,7 +20,7 @@ Some users have reported that the API Key is not available for the Cloud API in 
 If this happens to you, use this inthegration instead:
 https://github.com/NoUsername10/Solax-Developer-API-for-Home-assistant
 This uses the SolaX Developer API, and is much better and feature rich!
-Do try it out and led me know how it works for you.
+Do try it out and let me know how it works for you.
 
 Its in the HACS default catalog waiting line for approval.
 
