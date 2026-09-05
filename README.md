@@ -14,18 +14,25 @@ Ideal if you want a simple, feature-rich, plug-and-play cloud integration for So
 
 <br>
 
-**--UPDATE ON API KEY--**
+**--UPDATE ON API KEY MISSING IN THE SOLAX PORTAL--**
 
 Some users have reported that the API Key is not available for the Cloud API in the SolaX website for new registrations.
 If this happens to you, use this inthegration instead:
 https://github.com/NoUsername10/Solax-Developer-API-for-Home-assistant
+
 This uses the SolaX Developer API, and is much better and feature rich!
 Do try it out and let me know how it works for you.
 
-Its in the HACS default catalog waiting line for approval.
+It is now HACS approved!
 
-<br>
+Get SolaX Developer API 
 
+[<img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open this integration in HACS">](https://my.home-assistant.io/redirect/hacs_repository/?owner=NoUsername10&repository=Solax-Developer-API-for-Home-assistant&category=integration)
+<br><br><br>
+
+
+
+## SolaX Cloud API
 
 ## ✨ Features in short:
 
